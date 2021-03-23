@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Shop_Lessons.ViewModels
 {
     public class CarsListViewModel
-    {
+    {// koment 3
         public IEnumerable<Car> allCars { get; set; }
 
         public string currCategory { get; set; }
