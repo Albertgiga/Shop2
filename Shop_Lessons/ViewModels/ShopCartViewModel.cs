@@ -1,5 +1,4 @@
-﻿
-using Shop_Lessons.Data.Models;
+﻿using Shop_Lessons.Data.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
